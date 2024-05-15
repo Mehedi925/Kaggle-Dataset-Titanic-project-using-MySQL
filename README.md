@@ -2,4 +2,5 @@
 
 ## Questionnaires for SQL Query:
  1. show the first 10 rows of the dataset
- 2. 2.find the number of dataset who survived
+ 2. find the number of datasets who survived
+ 3. find the number of passengers in each class.
