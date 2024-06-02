@@ -6,3 +6,4 @@
  3. find the number of passengers in each class.
  4. find the average age of all passengers
  5. find the first 10 rows of the dataset sorted by passenger class in descending order.
+ 6. find the number of passengers in each class sorted by class in assending order.
